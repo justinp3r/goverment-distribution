@@ -1,4 +1,4 @@
-# Einmalzahlung200
+# Einmalzahlung 200
 
 Es handelt sich hierbei um ein Projekt mit einem unerfahrenen Ansatz, welches darauf abzielt, die einmalige Zahlung der Bundesregierung als Programm umzusetzen.
 
